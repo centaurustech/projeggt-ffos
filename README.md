@@ -1,4 +1,6 @@
-projeggt-ffos
+Projeggt App for FFOS
 =============
 
-Projeggt FFOS App
+Take a look the first version of our app in HTML5.
+
+https://marketplace.firefox.com/app/projeggt
